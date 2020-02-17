@@ -5,3 +5,5 @@ dang o nhanh develop
 them file o nhanh develop
 
 them code no edit commit
+
+thay doi tren master
