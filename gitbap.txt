@@ -11,3 +11,5 @@ thay doi tren master
 edit code in develop
 
 thay doi code tren master
+
+them code tren master
