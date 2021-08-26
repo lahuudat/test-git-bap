@@ -20,3 +20,4 @@ them code dev1
 
 them code dev2
 
+them code dev2 lan 2
